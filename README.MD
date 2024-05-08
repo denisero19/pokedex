@@ -15,4 +15,4 @@ Um projeto com personagens de Pokémons com menu clicável contendo botões sele
 
 Você pode acessar o código fonte do projeto 
 
-<>
+<https://github.com/denisero19/pokedex>
